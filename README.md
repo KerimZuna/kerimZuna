@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KerimZuna
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, Python, HTML/CSS/JAVASCRIPT
+- 🌱 I’m currently learning C++, C#, HTML/CSS/JAVASCRIPT
 - 📫 How to reach me - kerimzuna18@gmail.com
 
 <!---
