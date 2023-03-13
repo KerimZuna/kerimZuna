@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @KerimZuna
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, C#, HTML/CSS/JAVASCRIPT
-- 📫 How to reach me - kerimzuna18@gmail.com
+Hello everyone,
 
-<!---
-KerimZuna/KerimZuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+my name is Kerim Žuna and I am a third year student at Polytechnic faculty of University of Zenica, majoring in Software engineering. Throughout the faculties curriculum I have come across many different technologies. Some of those are HTML, CSS, C++, C#, Java, Javascript and many more. I like to say that I have a good foundation in all of them, but I still have not found myself in any of them. Fortunately, my recent experience in EESTEC Challenge 2023 which took place in Sarajevo, helped me to make my decision. Mobile app development is something I am every passionate about and my journey with Flutter begins soon. Expect this README file to be updated quite often as I go along my journey.
