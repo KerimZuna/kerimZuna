@@ -10,4 +10,4 @@
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-Third-year Software engineering student from Zenica, Bosnia and Herzegovina. Aspiring to become a mobile app developer using Flutter.
+Final year Software engineering student from Zenica, Bosnia and Herzegovina!
